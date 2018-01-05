@@ -1,0 +1,8 @@
+importFrom("stats", "approx", "binomial", "glm", "sd", "quantile","update", "predict", "weighted.mean")
+importFrom("stats", "dist", "formula", "qnorm")
+importFrom("densratio", "densratio")
+
+
+exportPattern("^[[:alpha:]]+")
+
+export(appe.glm, appe.lm, densratio.appe, cvalest.bin)

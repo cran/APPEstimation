@@ -1,0 +1,12 @@
+07ddb30d0356b56ca1363c5c5e07adb7 *DESCRIPTION
+0406a7d57bd5e52f3b7cfb5b6af18555 *NAMESPACE
+a1955980b28930e883822285f2ec4720 *R/appe.glm.R
+4419d4a24cc15245c3f72c5ee1789557 *R/appe.lm.R
+68400f8d76a957fa9ce917725a697d97 *R/cvalest.bin.R
+d2f17dcdbdb30d48dd002d1c5a255aeb *R/densratio.appe.R
+0244c5e6ce820f3874a129c9502ecdba *build/partial.rdb
+c1340801e8eb641b9d474da2d46b9111 *man/APPEstimation-package.Rd
+d97124c0bbcd746c8eefd2d4c59cef61 *man/appe.glm.Rd
+c1a121528f5d3c9a5ab3d1f9d18a046c *man/appe.lm.Rd
+95d04b4576c532cb2653a481fb6db0fb *man/cvalest.bin.Rd
+64ece4f0b4d956516931ffb48a3b57db *man/densratio.appe.Rd
